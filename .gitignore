@@ -1,8 +1,8 @@
 # Terraform
 .terraform/
 *.tfstate
-*.tfstate.backup
-.crash.log
-
-# Terraform lock file (optional but recommended)
+*.tfstate.*
 .terraform.lock.hcl
+
+# OS
+*.exe
