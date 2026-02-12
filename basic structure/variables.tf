@@ -5,3 +5,4 @@ variable "ami_id" {
 variable "instance_type"{
     description ="value of instance_type"
 }
+
